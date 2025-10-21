@@ -1,2 +1,2 @@
-# Meta-learning-human-inductive-priors
-Project on meta-learning artifical agent that discovers human decision heuristics (aka regularizers) from scratch.
+# Drift Diffusion Model - Race model 
+project on learning with stochatistc gradient descent - WIP 
